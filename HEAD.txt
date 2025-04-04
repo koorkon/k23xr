@@ -1,1 +1,0 @@
-Desrbe of head -> head keyword point to last commit from commit. In reset it reset multiple commits once
