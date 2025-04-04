@@ -1,1 +1,0 @@
-Differnce between revert and reset-> reset is unsafe way to undo changes. but in revert, it will create new commit for undo commits
