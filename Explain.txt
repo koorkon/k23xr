@@ -1,0 +1,1 @@
+Explanation-> soft reset is unsafe but soft rest will keep the changes after undo all commits. but after hard reset all commits will discard automaticcaly
